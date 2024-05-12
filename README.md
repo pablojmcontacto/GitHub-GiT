@@ -13,4 +13,4 @@
 <p align="center">GitHub es una plataforma diseñada para proporcionar a los desarrolladores un espacio virtual donde pueden compartir su código con otros. Facilita la interacción y la colaboración entre los desarrolladores en uno o varios proyectos. Esto se logra mediante la posibilidad de crear equipos de trabajo y la implementación de un sistema de control de versiones, lo que permite llevar un registro de los cambios realizados en el código.</p>
 
 ***<h3 align="center">GIT y que relación guarda con GitHub</h3>***
-<p align="center">Pues básicamente, Git es el sistema encargado del control de versiones que utiliza GitHub. Este sistema permite llevar un registro de los cambios realizados, del código y faciltando la colaboración del equipo de trabajo. </p>
+<p align="center">Pues básicamente, Git es el sistema encargado del control de versiones que utiliza GitHub. Este sistema permite llevar un registro de los cambios realizados, del código y facilitando la colaboración del equipo de trabajo. </p>
